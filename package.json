@@ -1,0 +1,21 @@
+{
+  "name": "zelda-totk",
+  "displayName": "zelda-totk",
+  "description": "Theme inspired by Zelda - Tears of Kingdom",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zelda - Tears of Kingdom Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Zelda - Tears of Kingdom Theme-color-theme.json"
+      }
+    ]
+  }
+}
