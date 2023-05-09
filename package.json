@@ -1,10 +1,19 @@
 {
   "name": "zelda-totk",
-  "displayName": "zelda-totk",
-  "description": "Theme inspired by Zelda - Tears of Kingdom",
+  "displayName": "Zelda Tears of the Kingdom",
+  "description": "A dark Visual Studio Theme inspired by Zelda - Tears of Kingdom.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"
+  },
+  "publisher":"alliemartz",
+  "engines": {
+    "vscode": "^1.17.0"
+  },
+  "icon": "link_TotK.png",
+  "repository": {
+    "url": "https://github.com/aam198/zelda-totk-vscode-theme",
+    "type": "git"
   },
   "categories": [
     "Themes"
