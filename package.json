@@ -11,6 +11,10 @@
     "vscode": "^1.17.0"
   },
   "icon": "link_TotK.png",
+  "galleryBanner": {
+    "color": "#222528",
+    "theme": "dark"
+  },
   "repository": {
     "url": "https://github.com/aam198/zelda-totk-vscode-theme",
     "type": "git"
