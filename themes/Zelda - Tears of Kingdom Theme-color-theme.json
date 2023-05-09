@@ -280,7 +280,7 @@
       "name": "support.constant.property-value.scss",
       "scope": "support.constant.property-value.scss,support.constant.property-value.css",
       "settings": {
-        "foreground": "#ffb701"
+        "foreground": "#D4BFFF"
       }
     },
     {
@@ -778,7 +778,7 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#ffd580"
+        "foreground": "#5CCFE6"
       }
     },
     {
@@ -1664,6 +1664,13 @@
         "foreground": "#ffd580"
       }
     },
+    {
+			"name": "Class, Instance, Support",
+			"scope": "entity.name.class, entity.name.type.class, entity.name.instance, entity.name.type.instance, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
+			"settings": {
+				"foreground": "#5CCFE6"
+			}
+		},
     {
       "name": "heading 4, type, class, interface",
       "scope": [

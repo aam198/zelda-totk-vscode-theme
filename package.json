@@ -15,6 +15,9 @@
     "color": "#222528",
     "theme": "dark"
   },
+  "author": {
+		"name": "Allie Martz (alliemartzdev[at]gmail.com)"
+	},
   "repository": {
     "url": "https://github.com/aam198/zelda-totk-vscode-theme",
     "type": "git"
